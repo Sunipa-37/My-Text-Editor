@@ -35,3 +35,4 @@ This is my **first solo project** during MCA (1st Year) 🎉
 ## 📦 Deployment
 - Successfully packaged into a Windows application (.exe).  
 - Can be pinned to the taskbar and launched directly like a native app.  
+Feedback I’d love to hear your thoughts! Share your feedback, report bugs, or suggest features via GitHub issues. You can also reach me at: sunipabose37@gmail.com
