@@ -32,3 +32,6 @@ This is my **first solo project** during MCA (1st Year) 🎉
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
+## 📦 Deployment
+- Successfully packaged into a Windows application (.exe).  
+- Can be pinned to the taskbar and launched directly like a native app.  
