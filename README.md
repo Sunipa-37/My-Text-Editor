@@ -15,12 +15,10 @@ This is my **first solo project** during MCA (1st Year) 🎉
 - 📊 Status Bar (Word, Character & Line count)  
 - ❌ Exit Confirmation with save prompt  
 
-## 📸 Screenshot
-*(Add one here later!)*
-
 ## 🛠️ Tech Stack
 - Python 3.x  
-- Tkinter (Standard Python GUI library)  
+- Tkinter (Standard Python GUI library)
+- pythoninstaller
 
 ## 🎯 Future Improvements
 - Add Recent Files list  
